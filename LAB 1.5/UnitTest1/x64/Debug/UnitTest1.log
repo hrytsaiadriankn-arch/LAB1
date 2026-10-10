@@ -1,0 +1,2 @@
+﻿  Source.cpp
+D:\2 курс 1 семестр\LAB 1.5\Project1\Source.cpp(55,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
